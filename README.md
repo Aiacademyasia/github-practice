@@ -7,3 +7,7 @@ I am learning GitHub.
 Hello GitHub!
 
 This change was made on GitHub.
+
+## About
+
+This is the About page for our project.
